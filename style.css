@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.HeaderNav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.BandDudes{
+    height: 100vh;
+    background-image: url(https://www.w3schools.com/w3images/chicago.jpg);
+    background-position: bottom;
+    background-size: cover;
+}
